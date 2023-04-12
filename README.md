@@ -1,5 +1,5 @@
-- 👋 Hi, I’m vatsalya
-- 👀 I’m interested in programming 
+- 👋 Hi, I’m vatsalya. Official Community Speaker of arduino.cc
+- 👀 I’m interested in IoT & AIML 
 - 🌱 I’m currently learning Android studio
 - 💞️ I’m looking to collaborate on YouTube
 - 📫 How to reach me "https://mobile.twitter.com/PrayaasEk"
